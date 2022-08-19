@@ -17,4 +17,3 @@
 - :desktop_computer: I'm currently working at **ExpertaLabs**
 - :office: Used to work at **AVG**, **Avast**, **Siemens**
 - :keyboard: I use daily: `C`, `C++`, `Javascript`, `Typescript`, `Python`, `React`, `Yocto`, `KiCAD`, `Linux`
-- :racehorse: Fun fact: I'm a happy owner of one 14yrs old greyhound
