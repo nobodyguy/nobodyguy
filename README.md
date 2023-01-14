@@ -5,7 +5,7 @@
 #### Current personal projects
 
 - :climbing: Bluetooth scale for training and assessing climbers (PCB design, Zephyr RTOS firmware, multiplatform hybrid Ionic+React app)
-- :coffee: Prototyping a small home coffee roaster
+- :factory: HA compatible Zigbee air quality monitor
 
 #### Current work projects
 
