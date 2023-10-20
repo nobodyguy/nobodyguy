@@ -17,3 +17,5 @@
 - :desktop_computer: I'm currently working at **ExpertaLabs**
 - :office: Used to work at **AVG**, **Avast**, **Siemens**
 - :keyboard: I use daily: `C`, `C++`, `Javascript`, `Typescript`, `Python`, `React`, `Yocto`, `KiCAD`, `Linux`
+
+Link to *"Z Arduina na ZephyrRTOS"* slides - https://docs.google.com/presentation/d/1Inj0mqbIPe8crwq689rmUOjc6WF7gBOXyYsPhrsTpRk/edit?usp=sharing
